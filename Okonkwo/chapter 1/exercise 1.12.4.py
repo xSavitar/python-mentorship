@@ -1,0 +1,8 @@
+Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
+[GCC 5.4.0 20160609] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> print("hello")
+hello
+>>> "hello"
+'hello'
+>>> Note:Without the command print(),hello is printed with a single quotation mark
