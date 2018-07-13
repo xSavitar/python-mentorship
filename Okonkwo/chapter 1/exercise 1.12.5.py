@@ -1,9 +1,0 @@
-Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
-[GCC 5.4.0 20160609] on linux
-Type "copyright", "credits" or "license()" for more information.
->>> cheese
-Traceback (most recent call last):
-  File "<pyshell#0>", line 1, in <module>
-    cheese
-NameError: name 'cheese' is not defined
->>> NB: This is a runtime error because the word cheese is not defined
